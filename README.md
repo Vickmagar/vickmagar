@@ -1,3 +1,5 @@
+[![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)]
+
 🎓Software and Network Design Engineer
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victormmagar@gmail.com)
