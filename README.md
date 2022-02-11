@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)]
+![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
 
 🎓Software and Network Design Engineer
 
