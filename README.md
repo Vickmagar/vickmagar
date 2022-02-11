@@ -2,7 +2,7 @@
 
 
 
-- 🎓Software and Network Design Engineer
+🎓Software and Network Design Engineer
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victormmagar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-mart%C3%ADnez-garrido-51261720b/)
