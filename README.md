@@ -1,6 +1,6 @@
 ![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
 
-🎓Software and Network Design Engineer
+🎓I am an engineering student in software and network design
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victormmagar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-mart%C3%ADnez-garrido-51261720b/)
