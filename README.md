@@ -1,7 +1,6 @@
 ![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
 
-🚀I'm currently learning in the Bootcam Full-stack JavaScript Enginner with Guillermo Rodas
-@glrodasz
+🚀Web and mobile application developer
 
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-mart%C3%ADnez-garrido-51261720b/)
