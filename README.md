@@ -22,3 +22,5 @@
 ![Teams](https://img.shields.io/badge/Teams-6264A7?&style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
+![NPM Version (with dist tag)](https://img.shields.io/npm/v/:packageName/:tag)
+
