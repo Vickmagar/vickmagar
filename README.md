@@ -15,26 +15,23 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Next.js is a free and open-source Admin Dashboard Template built on Next.js and Tailwind CSS, that empowers developers with a comprehensive toolkit for crafting seamless, data-driven back-ends, dashboards, and admin panels. With essential UI components, elements, and pages, it ensures the swift creation of feature-rich, complete dashboard solutions for upcoming Next.js projects</p>
+<p>Next.js is a free and open-source Admin Dashboard Template built on Next.js and Tailwind CSS.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Course Platform</h3>
+<h3 align="center">3D Model Course</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/daecx30bk/image/upload/v1721023665/asesoriasTech/Asesoriastech_ycebsl.png" width="400" alt="Course"></a>
+<a href="https://github.com/Vickmagar/Model-viewer" target="_blank"><img src="https://res.cloudinary.com/daecx30bk/image/upload/v1721186044/asesoriasTech/Model-viewer_vuk4vj.png" width="400" alt="Model Viewer"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Vickmagar/Model-viewer" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>3d modeling course with model viewer</p>
 </div>                                                             
 </table>                                                                                 
 </div>
