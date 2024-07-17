@@ -24,7 +24,7 @@
                <br>
 <h3 align="center">3D Model Course</h3>
 <div align="center">                                       
-<a href="https://github.com/Vickmagar/Model-viewer" target="_blank"><img src="https://res.cloudinary.com/daecx30bk/image/upload/v1721186044/asesoriasTech/Model-viewer_vuk4vj.png" width="400" alt="Model Viewer"></a>
+<a href="https://github.com/Vickmagar/Model-viewer" target="_blank"><img src="https://res.cloudinary.com/daecx30bk/image/upload/v1721186044/asesoriasTech/Model-viewer_vuk4vj.png" width="380" alt="Model Viewer"></a>
 <br>
 <p>
 <a href="https://github.com/Vickmagar/Model-viewer" target="_blank">
