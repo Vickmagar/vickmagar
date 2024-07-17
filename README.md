@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>3d modeling course with model viewer</p>
+</p>This comprehensive course is designed to introduce students to the world of 3D modeling and interactive visualization of models using web technologies.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
